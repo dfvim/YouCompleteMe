@@ -57,3 +57,5 @@ doc/tags
 .coverage.*
 coverage.xml
 .readme.utf-8.add.spl
+# ignore commit message
+.gitcommit
